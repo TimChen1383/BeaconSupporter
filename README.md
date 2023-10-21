@@ -8,5 +8,4 @@ Beacon Supporter is a program used for recording digital continuity indormation 
 - For adjusting the original python file, use requirements.txt to install the module we need
 
 
- ![BeaconSupporter](https://github.com/TimChen1383/BeaconSupporter/assets/37008451/0f2a9ff6-61d1-41c8-bea2-b1660d05f32f)
 
